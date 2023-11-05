@@ -18,10 +18,10 @@ int main(){
     
     printf("Student name = %s \n", s1.name);
     printf("Student roll no. = %d \n", s1.roll);
-    printf("Student name = %f \n", s1.cgpa);
+    printf("Student cgpa = %f \n", s1.cgpa);
     printf("Student name = %s \n", s2.name);
     printf("Student roll no. = %d \n", s2.roll);
-    printf("Student name = %f \n", s2.cgpa);
+    printf("Student cgpa = %f \n", s2.cgpa);
     
     //structures are stored in contigous memory location
 
